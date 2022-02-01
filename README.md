@@ -16,7 +16,7 @@ Spark’s design philosophy centers around four key characteristics:
 * Modularity
 * Extensibility
 
-**Component and architecture**
+**Component and architecture**<br>
 <img src="./components_and_architecture.png" width=500>
 
 ## What This Repository contains?
